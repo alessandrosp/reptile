@@ -1,4 +1,5 @@
 ![](assets/reptile.png)
+*The Reptile image is created by [Chill Desk](https://dribbble.com/shots/2274614-Mortal-Kombat-Reptile-Illustration).*
 
 # Reptile
 
