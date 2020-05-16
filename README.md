@@ -1,4 +1,4 @@
-![](assets/reptile.png)
+![](https://github.com/alessandrosp/reptile/blob/master/assets/reptile.png?raw=true)
 *The Reptile image is created by [Chill Desk](https://dribbble.com/shots/2274614-Mortal-Kombat-Reptile-Illustration).*
 
 # Reptile
@@ -69,7 +69,7 @@ answers = reptile.prompt(question)
 
 ### Checkbox
 
-![](assets/checkbox.gif)
+![](https://github.com/alessandrosp/reptile/blob/master/assets/checkbox.gif?raw=true)
 
 A **checkbox** is a prompt that allows the user to select zero, one or more options. It offers two shortcuts: \<a> to select all options and \<i> to invert the selections.
 
@@ -86,7 +86,7 @@ Options:
 
 ### Confirm
 
-![](assets/confirm.gif)
+![](https://github.com/alessandrosp/reptile/blob/master/assets/confirm.gif?raw=true)
 
 **Confirm** is a prompt that allows the user to respond to a Yes or No question. It only accepts y/Y and n/N. The output value is True for Yes and False for No.
 
@@ -98,7 +98,7 @@ Options:
 
 ### Input
 
-![](assets/input.gif)
+![](https://github.com/alessandrosp/reptile/blob/master/assets/input.gif?raw=true)
 
 An **input** is a prompt that allows the user input its own value as text.
 
@@ -112,7 +112,7 @@ Options:
 
 ### List
 
-![](assets/list.gif)
+![](https://github.com/alessandrosp/reptile/blob/master/assets/list.gif?raw=true)
 
 A **list** is a prompt that allows the user to select one out of many options (but one and only one).
 
